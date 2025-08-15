@@ -1,1 +1,3 @@
 # voice-assistant-
+Create a basic voice assistant that can perform simple tasks based on voice commands. 
+Implement features like responding to "Hello" and providing predefined responses, telling the time, and searching the web for information based on user queries.
